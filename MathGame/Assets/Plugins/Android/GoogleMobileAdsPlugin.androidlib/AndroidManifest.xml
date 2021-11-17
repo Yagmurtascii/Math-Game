@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.google.unity.ads" android:versionName="1.0" android:versionCode="1">
+  <application>
+    <uses-library android:required="false" android:name="org.apache.http.legacy" />
+    <!--Burası mutlaka olmalı. Şu anda google ıd'si var-->
+    <meta-data android:name="com.google.android.gms.ads.APPLICATION_ID" android:value="ca-app-pub-5153181048374757~5022066978" />
+  </application>
+</manifest>

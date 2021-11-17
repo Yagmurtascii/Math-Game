@@ -1,0 +1,10 @@
+MATH GAME=数学游戏
+START=开始
+EXIT=出口
+Refresh Box= 刷新框
+HIGH SCORE=  高分
+MUSIC=音乐
+RESET HIGH SCORE=重置高分
+ABOUT US=关于我们
+SCORE=分数:
+HIGH SCORE2=高分:

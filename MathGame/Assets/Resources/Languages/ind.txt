@@ -1,0 +1,10 @@
+MATH GAME=गणित खेल
+START=शुरु
+EXIT=बाहर जाएं
+Refresh Box= रिफ्रेश बॉक्स
+HIGH SCORE= उच्च स्कोर
+MUSIC=संगीत
+RESET HIGH SCORE=उच्च स्कोर रीसेट करें
+ABOUT US=हमारे बारे में
+SCORE=स्कोर:
+HIGH SCORE2= उच्च स्कोर:
